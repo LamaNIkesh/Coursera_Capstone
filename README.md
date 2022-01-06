@@ -16,7 +16,9 @@ In this project, I utilise Foursquare API to explore neighbourhoods around NTU t
 
 Recreate the conda env with the yaml file provided.   
 
-```conda env create --name envname --file=env.yml
+```
+conda env create --name envname --file=env.yml
+ 
  ```
 
  Everything should work then. Foursquare api cred needs to be updated with yours. Just put it as a json file in this format:
