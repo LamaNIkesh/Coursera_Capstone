@@ -1,6 +1,5 @@
-Foursquare_cred.json
-geocoder_api.csv
-SCN_Toronto.ipynb
+data/Foursquare_cred.json
+data/geocoder_api.csv
 Capstone_The-Battle-of-the-Neighborhoods.ipynb
 Capstone_Uni_accommodation.ipynb
 Capstone Project.ipynb

@@ -1,0 +1,60 @@
+Area_code,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+NG1 1,Pub,Bar,Café,Coffee Shop,Indian Restaurant,Cocktail Bar,Brewery,Music Venue,Pizza Place,Clothing Store
+NG1 3,Coffee Shop,Cocktail Bar,Bar,Café,Indian Restaurant,Pizza Place,Bookstore,Pharmacy,Pub,French Restaurant
+NG1 4,Pub,Music Venue,Fast Food Restaurant,Coffee Shop,Pizza Place,Seafood Restaurant,Caribbean Restaurant,Park,Grocery Store,College Arts Building
+NG1 5,Pub,Bar,Indian Restaurant,Hotel,Cocktail Bar,Theater,Café,Concert Hall,Fast Food Restaurant,Bookstore
+NG1 6,Pub,Bar,Café,Coffee Shop,Cocktail Bar,Indian Restaurant,Bookstore,Outdoor Sculpture,Tea Room,Theater
+NG1 9,Bar,Pub,Café,Indian Restaurant,Coffee Shop,Cocktail Bar,Clothing Store,Sandwich Place,Tapas Restaurant,Gay Bar
+NG2 1,Tram Station,Furniture / Home Store,Coffee Shop,Pet Store,Hardware Store,Performing Arts Venue,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture
+NG2 2,Tram Station,Grocery Store,Gym / Fitness Center,Bar,Performing Arts Venue,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store
+NG2 3,2,Coffee Shop,Pub,Platform,Grocery Store,Train Station,Shopping Mall,Rental Car Location,Newsagent,Lake
+NG2 4,Café,Science Museum,Supermarket,Grocery Store,Food & Drink Shop,Coffee Shop,Asian Restaurant,Pub,Photography Studio,Pharmacy
+NG2 5,2,Grocery Store,Park,Coffee Shop,Tapas Restaurant,Lounge,Modern European Restaurant,Music Venue,Optical Shop,French Restaurant
+NG2 6,Pub,Athletics & Sports,Rugby Pitch,Canal,Pizza Place,Pie Shop,Photography Studio,Pharmacy,Platform,Nightclub
+NG2 7,Pub,Supermarket,Pharmacy,Restaurant,Fish & Chips Shop,Gym / Fitness Center,American Restaurant,Outdoor Supply Store,Office,Optical Shop
+NG2 9,2,Tram Station,Coffee Shop,Hardware Store,Furniture / Home Store,Photography Studio,Pharmacy,Pie Shop,Pet Store,Pizza Place
+NG3 1,Pizza Place,Pharmacy,Grocery Store,Shopping Mall,Gay Bar,Donut Shop,Coffee Shop,Café,Nightclub,Burrito Place
+NG3 2,Pub,Zoo,Supermarket,Chinese Restaurant,Park,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store
+NG3 3,Bus Stop,Convenience Store,Rental Car Location,Grocery Store,Bar,Performing Arts Venue,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store
+NG3 4,Grocery Store,Garden,American Restaurant,Park,Nightclub,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store
+NG3 5,Fast Food Restaurant,Supermarket,Grocery Store,American Restaurant,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park
+NG3 6,Pub,Convenience Store,Badminton Court,Park,Pet Café,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Performing Arts Venue
+NG3 7,Grocery Store,Steakhouse,American Restaurant,Park,Nightclub,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store
+NG4 1,Grocery Store,Bus Stop,Park,Chinese Restaurant,Performing Arts Venue,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Pet Café
+NG4 2,Train Station,Grocery Store,Bus Stop,Pizza Place,Outdoor Supply Store,Nightclub,Office,Optical Shop,Other Repair Shop,Platform
+NG4 3,2,Pub,Grocery Store,Performing Arts Venue,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park
+NG4 4,Medical Supply Store,Grocery Store,Performing Arts Venue,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park,American Restaurant
+NG4 9,2,Pub,Grocery Store,Performing Arts Venue,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park
+NG5 0,Pub,Café,Fast Food Restaurant,Carpet Store,Supermarket,Outdoor Supply Store,Park,Hardware Store,Gas Station,Pet Store
+NG5 1,Indian Restaurant,Restaurant,Supermarket,Gym / Fitness Center,Snack Place,Photography Studio,Pharmacy,Pet Store,Pie Shop,Pet Café
+NG5 2,Pub,Bar,Pharmacy,Café,Grocery Store,Mediterranean Restaurant,Italian Restaurant,Market,Optical Shop,Playground
+NG5 3,2,Grocery Store,Sandwich Place,Pub,Pizza Place,Pie Shop,Photography Studio,Pharmacy,Pet Store,Pet Café
+NG5 4,Furniture / Home Store,Park,Photography Studio,Other Repair Shop,Nightclub,Office,Optical Shop,Outdoor Sculpture,Outdoor Supply Store,American Restaurant
+NG5 5,Grocery Store,Steakhouse,American Restaurant,Park,Nightclub,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store
+NG5 6,Pub,Warehouse Store,Supermarket,Furniture / Home Store,Park,Bakery,Fast Food Restaurant,Café,Pet Store,Pharmacy
+NG5 7,2,Theater,Optical Shop,Pizza Place,Department Store,Coffee Shop,Sandwich Place,Supermarket,Pub,Bakery
+NG5 8,Pub,Candy Store,Nightclub,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park,Performing Arts Venue,Pet Café
+NG5 9,Photography Studio,Construction & Landscaping,Gym,American Restaurant,Park,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store
+NG7 1,Fast Food Restaurant,Pub,Auto Garage,Movie Theater,Hotel,Grocery Store,Gym / Fitness Center,Boat or Ferry,Performing Arts Venue,Other Repair Shop
+NG7 2,Indian Restaurant,Bar,Sandwich Place,Coffee Shop,Chinese Restaurant,Bus Stop,Tram Station,Café,Pub,Outdoor Sculpture
+NG7 3,Grocery Store,Middle Eastern Restaurant,Pub,Supermarket,Shopping Mall,Discount Store,Nightclub,American Restaurant,Optical Shop,Other Repair Shop
+NG7 4,Grocery Store,Pub,Turkish Restaurant,Bus Stop,Park,Hotel,Tram Station,Office,Optical Shop,Other Repair Shop
+NG7 5,Fast Food Restaurant,Discount Store,Supermarket,Tea Room,Grocery Store,Middle Eastern Restaurant,Furniture / Home Store,Hotel,Pet Store,Pet Café
+NG7 6,Art Gallery,Ice Cream Shop,Convenience Store,Supermarket,Park,Climbing Gym,Gym / Fitness Center,American Restaurant,Performing Arts Venue,Other Repair Shop
+NG7 7,Restaurant,Gym / Fitness Center,Pub,Climbing Gym,American Restaurant,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park
+NG8 1,Pizza Place,Sandwich Place,Pub,Optical Shop,Weight Loss Center,Grocery Store,Fish & Chips Shop,Office,Other Repair Shop,Outdoor Sculpture
+NG8 2,Pub,Food & Drink Shop,Pharmacy,Grocery Store,Newsagent,American Restaurant,Outdoor Supply Store,Office,Optical Shop,Other Repair Shop
+NG8 3,Bus Stop,Restaurant,Gym / Fitness Center,Performing Arts Venue,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park
+NG8 4,Grocery Store,Indian Restaurant,Fish & Chips Shop,Park,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Performing Arts Venue
+NG8 5,Indian Restaurant,Park,Hotel,Grocery Store,Newsagent,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store
+NG8 6,Playground,Park,Plaza,Nightclub,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Performing Arts Venue
+NG8 9,Garden Center,Newsagent,Nightclub,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park,American Restaurant
+NG80 1,2,Hardware Store,Pharmacy,Clothing Store,Shopping Plaza,Bus Station,Gastropub,Warehouse Store,Hotel,Malay Restaurant
+NG80 7,2,Hockey Field,Pizza Place,Tram Station,Playground,Latin American Restaurant,Lake,Platform,Japanese Restaurant,Pie Shop
+NG80 8,2,Hockey Field,Tram Station,Playground,Lake,Nightclub,Platform,Pizza Place,Pie Shop,Photography Studio
+NG90 1,2,Café,Playground,Platform,Pizza Place,Pie Shop,Photography Studio,Pharmacy,Pet Store,Nightclub
+NG90 2,Café,Nightclub,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park,Performing Arts Venue,American Restaurant
+NG90 4,Coffee Shop,Office,Pharmacy,Pet Café,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park,Performing Arts Venue
+NG90 5,Café,Pharmacy,Performing Arts Venue,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park,American Restaurant
+NG90 6,Café,Nightclub,Office,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park,Performing Arts Venue,American Restaurant
+NG90 7,Soccer Field,Office,Coffee Shop,Pharmacy,Performing Arts Venue,Optical Shop,Other Repair Shop,Outdoor Sculpture,Outdoor Supply Store,Park
